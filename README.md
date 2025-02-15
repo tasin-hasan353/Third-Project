@@ -1,2 +1,2 @@
 # Third-Project
-For learning Github properly with Apna College, I created the third project repo. I want to master on Github
+For learning Github properly with Apna College, I created the third project repo.<br> <b>I want to master on Github.</b>
